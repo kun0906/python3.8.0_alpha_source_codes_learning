@@ -1,4 +1,3 @@
-# Papers-Reading
-papers should be read
+# Source Codes Learning
 
-papers: network security & deep learning
+To search and learn the built-in functions in python source codes.
